@@ -2,7 +2,7 @@
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-visit app https://secondhand-binar.vercel.app/
+visit app https://secondhand-sh.vercel.app/
 
 This platform is a place for buying and selling products online, especially used products. This platform opens and provides various types of need categories. Users who register with this application can act as sellers and buyers by using the same 1 (one) account. This platform will bring together sellers and buyers to be able to negotiate products and conduct transactions directly outside the platform.
 
